@@ -4,6 +4,7 @@
 ## Quick Start
 ```python
 from open_brewery_db import OpenBreweryDb
+
 db = OpenBreweryDb()
 
 # Get a specific brewery
